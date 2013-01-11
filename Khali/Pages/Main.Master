@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="Khali.Pages.Main" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<title>Khali</title>
+<link rel="Stylesheet" type="text/css" href="/Styles/alank.css" />
+<asp:ContentPlaceHolder ID="Head" runat="server">
+</asp:ContentPlaceHolder>
+</head>
+<body>
+<div>
+<div style="position: absolute; top: 0px; width: 100%;">
+	<div class="sb-hdr">
+	<div class="sb-hdr-txt" title="In the name of the one and only WWE Superstar of India, The great Khali">Khali</div>
+	</div>
+</div>
+<div style="position: absolute; bottom: 50%; text-align: center; width: 100%;">
+	<asp:ContentPlaceHolder ID="Body" runat="server">
+	</asp:ContentPlaceHolder>
+	<div style="padding-top: 24px;">
+		<asp:Label ID="Msg" runat="server" 
+			Font-Italic="True" Font-Names="Arial,Sans-Serif" Font-Size="12px" 
+			ForeColor="Red"></asp:Label>
+	</div>
+</div>
+<div style="position: absolute; bottom: 0px; width: 100%;">
+	<div class="sb-ftr">
+	<div>Copyright &copy; Gandi Corporation, 2013</div>
+	<div>All rights reserved.</div>
+	</div>
+</div>
+</div>
+</body>
+</html>

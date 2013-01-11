@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Home\Develop\Temp\Khali" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Scripts/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png" publishTime="01/06/2013 14:46:42" />
+    <file relUrl="Scripts/jquery-ui/jquery-ui-1.9.2.custom.min.css" publishTime="01/06/2013 14:46:19" />
+    <file relUrl="Scripts/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png" publishTime="01/06/2013 14:46:42" />
+    <file relUrl="bin/Khali.dll" publishTime="01/06/2013 20:06:22" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="01/06/2013 14:45:12" />
+    <file relUrl="Scripts/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png" publishTime="01/06/2013 14:46:42" />
+    <file relUrl="Scripts/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png" publishTime="01/06/2013 14:46:42" />
+    <file relUrl="bin/Khali.pdb" publishTime="01/06/2013 20:06:22" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="01/06/2013 14:45:12" />
+    <file relUrl="Scripts/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png" publishTime="01/06/2013 14:46:42" />
+    <file relUrl="Scripts/jquery-1.8.3.min.js" publishTime="01/06/2013 14:45:12" />
+    <file relUrl="Scripts/jquery-ui/images/ui-icons_2e83ff_256x240.png" publishTime="01/06/2013 14:46:42" />
+    <file relUrl="Scripts/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png" publishTime="01/06/2013 14:46:42" />
+    <file relUrl="Scripts/jquery-ui/images/ui-icons_222222_256x240.png" publishTime="01/06/2013 14:46:42" />
+    <file relUrl="Scripts/jquery.mobile-1.2.0.min.js" publishTime="01/06/2013 14:45:12" />
+    <file relUrl="Default.aspx" publishTime="01/06/2013 18:42:45" />
+    <file relUrl="Scripts/jquery-ui/images/ui-icons_454545_256x240.png" publishTime="01/06/2013 14:46:42" />
+    <file relUrl="Scripts/jquery-1.8.3-vsdoc.js" publishTime="01/06/2013 14:45:12" />
+    <file relUrl="Pages/Main.Master" publishTime="01/06/2013 18:55:56" />
+    <file relUrl="Scripts/jquery-1.8.3.js" publishTime="01/06/2013 14:45:12" />
+    <file relUrl="Styles/alank.css" publishTime="01/06/2013 18:44:29" />
+    <file relUrl="Scripts/jquery-ui/images/ui-icons_888888_256x240.png" publishTime="01/06/2013 14:46:42" />
+    <file relUrl="Web.config" publishTime="01/06/2013 20:11:35" />
+    <file relUrl="Scripts/jquery-ui/images/ui-icons_cd0a0a_256x240.png" publishTime="01/06/2013 14:46:42" />
+    <file relUrl="Scripts/jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png" publishTime="01/06/2013 14:46:42" />
+    <file relUrl="Scripts/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png" publishTime="01/06/2013 14:46:42" />
+    <file relUrl="Scripts/jquery.cookie.min.js" publishTime="01/06/2013 14:45:11" />
+    <file relUrl="Scripts/gScripts.js" publishTime="01/06/2013 14:45:11" />
+    <file relUrl="Scripts/jquery-ui/jquery-ui-1.9.2.custom.min.js" publishTime="01/06/2013 14:46:19" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="01/06/2013 14:45:12" />
+  </publishProfile>
+</publishData>

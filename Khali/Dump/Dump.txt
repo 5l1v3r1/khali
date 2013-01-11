@@ -1,0 +1,22 @@
+﻿		protected void sbSndMdfdWeb (string fetchUrl)
+		{
+			WebClient Clnt;
+
+			fetchUrl = sbGetUrlInfo(fetchUrl);
+			string FilePath = ConfigurationManager.AppSettings["Web_Resource_Path"];
+			string FileExt = ".html";
+			string FileGuid = Guid.NewGuid().ToString();
+			string FileName = Server.MapPath(FilePath + FileGuid + FileExt);
+			Clnt = new WebClient();
+			Clnt.DownloadFile(fetchUrl, FileName);
+			sbEncdHttpLnks(FileName);
+			Response.Clear();
+			Response.ContentType = "text/html";
+			Response.TransmitFile(FileName);
+			Response.End();
+		}
+		protected void sbSndWebRes (string webRes)
+		{
+			string fetchUrl = Server.UrlDecode(webRes);
+			sbSndMdfdWeb(fetchUrl);
+		}

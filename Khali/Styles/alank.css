@@ -1,0 +1,68 @@
+﻿body {
+	margin: 0px;
+}
+.sb-hdr {
+	margin: 0px;
+	width: 100%;
+	border-bottom: 1px solid #B8B4B4;
+	padding: 10px 0px 10px 0px;
+	font-family: "Trebuchet MS", "Calibri", Sans-Serif;
+	background-color: black;
+}
+.sb-hdr-txt {
+	margin: 0px;
+	border: 0px;
+	padding: 0px 0px 0px 20px;
+	font-size: 32px;
+	font-variant: small-caps;
+	color: #EEEEEE;
+}
+.sb-input {
+	height: 24px;
+	width: 75%;
+	padding: 0px 10px 0px 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background-color: #F0F0F0;
+	color: #404040;
+	font-size: 12px;
+	-ms-transition: box-shadow 1s;
+	-moz-transition: box-shadow 1s;
+	-webkit-transition: box-shadow 1s;
+	-o-transition: box-shadow 1s;
+	transition: box-shadow 1s;
+}
+.sb-input:focus {
+	outline-width: 0px;
+	box-shadow: 0px 0px 7px 5px rgba(128,128,128,80);
+}
+.sb-btn {
+	padding: 5px 20px 5px 20px;
+	background-color: #CCCCCC;
+	color: black;
+	border: 1px solid Gray;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	font-size: 18px;
+	font-weight: 800;
+	-ms-transition: background 1s;
+	-moz-transition: background 1s;
+	-webkit-transition: background 1s;
+	-o-transition: background 1s;
+	transition: background 1s;
+}
+.sb-btn:hover {
+	background-color: #EEEEEE;
+}
+.sb-ftr {
+	background-color: #EEEEEE;
+	font-family: Arial, Sans-Serif;
+	font-size: 12px;
+	text-align: center;
+}
+
+
+
+
